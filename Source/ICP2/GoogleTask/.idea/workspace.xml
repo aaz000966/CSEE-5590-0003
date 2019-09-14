@@ -15,7 +15,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Web_Lesson4/ICP/Hover" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,6 +64,7 @@
       <workItem from="1567281253313" duration="4474000" />
       <workItem from="1568487351136" duration="29000" />
       <workItem from="1568487423522" duration="126000" />
+      <workItem from="1568487773230" duration="66000" />
     </task>
     <servers />
   </component>

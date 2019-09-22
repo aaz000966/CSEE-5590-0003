@@ -1,0 +1,58 @@
+.base {
+  background: white;
+  height: 90px;
+  margin-top: 5px;
+}
+
+
+.maindisplay {
+  background: lightgrey;
+
+  width: 250px;
+  padding: 5% ;
+  font-size: 4rem;
+  text-align: right;
+  overflow: auto;
+}
+
+.subdisplay {
+  border-bottom: 1px solid black;
+  height: 5%;
+  font-size: 2rem;
+  overflow: auto;
+}
+
+.keypad {
+  height: calc(10% / 3);
+}
+
+.keys {
+  margin: 0;
+  width: 1%;
+  height: 1%;
+  padding: 3%;
+  font-size: 2rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.one-line {
+  display: inline-block;
+}
+
+.zerokey {
+  width: 1%;
+}
+
+.ackey {
+  width: 2%;
+}
+
+.equalkey {
+}
+
+.numkey {
+}
+
+.opkey {
+}
